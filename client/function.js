@@ -1,4 +1,5 @@
-const BASE_URL = 'https://maryjane.gavril.my.id'
+// const BASE_URL = "https://maryjane.gavril.my.id"; // <-- for production
+const BASE_URL = "http://localhost:3000"; // for local running
 
 function doRegister() {
   const username = $("#register-username").val();
