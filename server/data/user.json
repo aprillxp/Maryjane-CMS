@@ -1,0 +1,26 @@
+[
+  {
+    "username": "april",
+    "email": "april@mail.com",
+    "password": "april123",
+    "role": "admin",
+    "phoneNumber": "081234567890",
+    "address": "Washington, D.C."
+  },
+  {
+    "username": "thanos",
+    "email": "thanos@mail.com",
+    "password": "thanos123",
+    "role": "staff",
+    "phoneNumber": "081234567891",
+    "address": "planet of Titan"
+  },
+  {
+    "username": "billie",
+    "email": "billie@mail.com",
+    "password": "billie123",
+    "role": "staff",
+    "phoneNumber": "081234567892",
+    "address": "California"
+  }
+]

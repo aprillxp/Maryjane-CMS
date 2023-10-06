@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sweet Pant",
+    "description": "comfy pant",
+    "price": 100000,
+    "stock": 10,
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/172292/sub/goods_172292_sub3.jpg?width=2000",
+    "categoryId": 1,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Basic Shirt",
+    "description": "black shirt",
+    "price": 199000,
+    "stock": 20,
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/407044/item/goods_09_407044.jpg?width=2000",
+    "categoryId": 2,
+    "authorId": 1,
+    "status": "Inactive"
+  },
+  {
+    "name": "Zipped Hoodie",
+    "description": "men dry zipped hoodie",
+    "price": 400000,
+    "stock": 5,
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/413436/item/eugoods_09_413436.jpg?width=2000",
+    "categoryId": 3,
+    "authorId": 1,
+    "status": "Active"
+  }
+]
